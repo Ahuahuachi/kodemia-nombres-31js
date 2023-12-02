@@ -11,3 +11,4 @@ This is the final practice of the Git &amp; Github classes for Kodemia Gen 31 JS
 7. Jesica Reyes(JesiRei333)
 8. Alexis Fuentes (LaxDays)
 9. Brayan Almora (braian24xd)
+10. Ale Dominguez
