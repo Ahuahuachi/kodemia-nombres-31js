@@ -9,4 +9,5 @@ This is the final practice of the Git &amp; Github classes for Kodemia Gen 31 JS
 5. Andrei Simental(CryoSkaper)
 6. Alejandra Calzada (AleCalz)
 7. Jesica Reyes(JesiRei333)
-8. Brayan Almora (braian24xd)
+8. Alexis Fuentes (LaxDays)
+9. Brayan Almora (braian24xd)
