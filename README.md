@@ -14,3 +14,4 @@ This is the final practice of the Git &amp; Github classes for Kodemia Gen 31 JS
 10. Ale Dominguez
 11. Alberto Ortiz(Albertoortizav)
 12. Gerardo Mendez(Zidneser)
+13. Angel Quezada (AngelQZada)
